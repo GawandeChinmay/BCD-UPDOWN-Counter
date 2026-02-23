@@ -12,3 +12,10 @@ Transition form 9 to 0 (upcounting mode ) when reset is at logic 0.
 Transition form 0 to 9 (upcounting mode ) when reset is at logic 0.
 <img width="1547" height="792" alt="Screenshot 2026-02-23 093253" src="https://github.com/user-attachments/assets/32fe2851-f14d-43b2-8a96-b10ec2a969aa" />
 <img width="1558" height="790" alt="Screenshot 2026-02-23 093301" src="https://github.com/user-attachments/assets/a7cb25ad-1ec7-44c8-bf67-c4d2be60b538" />
+
+Schematic Generated using AMD Vivado :
+<img width="1555" height="695" alt="image" src="https://github.com/user-attachments/assets/dadfbe66-d615-4eeb-a395-a587dd78168d" />
+
+FPGA floorplan view showing the placement of the synthesized BCD Up/Down Counter design on the target device.:
+<img width="1569" height="729" alt="image" src="https://github.com/user-attachments/assets/f161477f-f4e0-44ff-b90b-e179cc20c909" />
+
